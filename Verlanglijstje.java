@@ -1,5 +1,10 @@
 package Pakket01;
 
-public class Verlanglijstje {
+import java.util.Scanner;
+
+public class Verlanglijstje
+{
+	int producteninverlanglijstje;
+	Scanner scanner = new Scanner (System.in);
 
 }
